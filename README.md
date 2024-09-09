@@ -55,9 +55,9 @@
 <h2 align="center">📞 Contact Us</h2>
 
 <p align="center">
-  📨 **Email:** [contact@inzonedevelopers.com](mailto:contact@inzonedevelopers.com)  
-  🌐 **Website:** [inzonedevelopers.com](https://inzonedevelopers.com)  
-  💼 **LinkedIn:** [Inzone Developers](https://linkedin.com/company/inzonedevelopers)  
+  📨 **Email:** [info@inzone.ae](mailto:info@inzone.ae)  
+  🌐 **Website:** [inzone.ae](https://inzone.ae)  
+  💼 **LinkedIn:** [Inzone Developers](https://www.linkedin.com/company/inzonedubai)  
 </p>
 
 ---
