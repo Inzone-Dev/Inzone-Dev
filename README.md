@@ -55,10 +55,11 @@
 <h2 align="center">📞 Contact Us</h2>
 
 <p align="center">
--  📨 **Email:** [Email](mailto:info@inzone.ae)  
--  🌐 **Website:** [Website](https://inzone.ae)  
--  💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/company/inzonedubai)  
+  📨 <strong>Email:</strong> <a href="mailto:info@inzone.ae">info@inzone.ae</a><br>
+  🌐 <strong>Website:</strong> <a href="https://inzone.ae">inzone.ae</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/inzonedubai">LinkedIn</a>
 </p>
+
 
 ---
 
